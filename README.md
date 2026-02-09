@@ -85,6 +85,9 @@ An interactive dashboard was created to visualize:
 - Promotion analysis  
 
 Dashboard File: `HR_Analytics_Dashboard.pbix`
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ---
 
